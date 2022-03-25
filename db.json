@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "name": "Computador",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "category": "tecnologia",
+      "price": 5800000
+    },
+    {
+      "name": "Microfono",
+      "image": "https://images.unsplash.com/photo-1485579149621-3123dd979885?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80",
+      "category": "sonido",
+      "price": 1200000
+    },
+    {
+      "name": "Consola de sonido",
+      "image": "https://images.unsplash.com/photo-1618609377864-68609b857e90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80",
+      "category": "sonido",
+      "price": 1590000
+    },
+    {
+      "name": "Control de televisión",
+      "image": "https://images.unsplash.com/photo-1608638562455-bc8927d3abd9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "category": "electrodomesticos",
+      "price": 125300
+    },
+    {
+      "name": "Kit televisor y consola",
+      "image": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dHZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "category": "entretenimiento",
+      "price": 8945900
+    },
+    {
+      "name": "Lavadora",
+      "image": "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2FzaGluZyUyMG1hY2hpbmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "category": "electrodomesticos",
+      "price": 1950600
+    },
+    {
+      "name": "Detergente",
+      "image": "https://images.unsplash.com/photo-1624372635310-01d078c05dd9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8d2FzaGluZyUyMG1hY2hpbmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "category": "hogar",
+      "price": 23000
+    },
+    {
+      "name": "Iphone CE",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvbmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "category": "tecnologia",
+      "price": 1890900
+    },
+    {
+      "name": "Camara Sony mirrorless",
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2FtZXJhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "category": "tecnologia",
+      "price": 7890000
+    },
+    {
+      "name": "Sofá",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aG9tZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "category": "hogar",
+      "price": 950000
+    },
+    {
+      "name": "Mesa de centro",
+      "image": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aG9tZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "category": "hogar",
+      "price": 320000
+    },
+    {
+      "name": "Plantas para la sala",
+      "image": "https://images.unsplash.com/photo-1562663474-6cbb3eaa4d14?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGhvbWV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "category": "hogar",
+      "price": 53000
+    },
+    {
+      "name": "Comedor",
+      "image": "https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fGhvbWV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "category": "hogar",
+      "price": 2300000
+    },
+    {
+      "name": "Audífonos",
+      "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fHNvdW5kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "category": "sonido",
+      "price": 1300000
+    },
+    {
+      "name": "Xbox series S",
+      "image": "https://images.unsplash.com/photo-1604586376807-f73185cf5867?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8eGJveHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "category": "entretenimiento",
+      "price": 1590000
+    },
+    {
+      "name": "Mando PS5",
+      "image": "https://images.unsplash.com/photo-1643906651350-20325b18debb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGxheSUyMDV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "category": "entretenimiento",
+      "price": 550000
+    }
+  ]
+}
